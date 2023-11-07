@@ -83,8 +83,8 @@ Use the Leo CLI to create a new project
 
 ```bash
 # create a new `hello-world` Leo project
-leo new archebald
-cd archebald
+leo new archebald10
+cd archebald10
 
 # build & setup & prove & verify
 leo run
